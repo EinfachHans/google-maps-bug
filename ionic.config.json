@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-bug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
